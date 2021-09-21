@@ -1,5 +1,5 @@
 # DeepLocker
-DeepLocker - Deep learning based malware
+DeepLocker - Deep learning based mw
 
 Overview                                                                                                                     
 https://www.youtube.com/watch?v=UeMe_-5W8UY         
